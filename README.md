@@ -2,6 +2,7 @@
 
 A lightweight desktop sticky notes app with GitHub sync for sharing notes across computers.
 Microsoft's sticky notes suck, so I created my own sticky notes software.
+The .exe is already included in the dist folder.
 
 ## Features
 
