@@ -1,6 +1,7 @@
 # Albert's Sticky Notes
 
 A lightweight desktop sticky notes app with GitHub sync for sharing notes across computers.
+Microsoft's sticky notes suck, so I created my own sticky notes software.
 
 ## Features
 
